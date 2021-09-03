@@ -1,4 +1,4 @@
-# crazy8ball
+# Crazy8Ball
 
 Enhanced version of GamePigeon's 8Ball with powerups, sound effects, background music, while working on a developed physics engine.
 
